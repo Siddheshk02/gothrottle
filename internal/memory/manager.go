@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/gothrottle/gothrottle/pkg/gothrottle"
+	"github.com/Siddheshk02/gothrottle/pkg/gothrottle"
 )
 
 // Manager is an in-memory SlotManager keyed by throttle name.

@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gothrottle/gothrottle/pkg/gothrottle"
+	"github.com/Siddheshk02/gothrottle/pkg/gothrottle"
 )
 
 func TestWorkerUsesInjectedSlotManager(t *testing.T) {

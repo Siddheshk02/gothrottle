@@ -6,8 +6,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/gothrottle/gothrottle/internal/memory"
-	"github.com/gothrottle/gothrottle/pkg/gothrottle"
+	"github.com/Siddheshk02/gothrottle/internal/memory"
+	"github.com/Siddheshk02/gothrottle/pkg/gothrottle"
 )
 
 func main() {

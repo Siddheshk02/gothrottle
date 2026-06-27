@@ -45,7 +45,7 @@ interface, an in-memory example backend, a runnable example, and unit tests.
 ## Install
 
 ```bash
-go get github.com/gothrottle/gothrottle
+go get github.com/Siddheshk02/gothrottle
 ```
 
 ## Quick start
@@ -58,7 +58,7 @@ import (
     "log"
     "time"
 
-    "github.com/gothrottle/gothrottle/pkg/gothrottle"
+    "github.com/Siddheshk02/gothrottle/pkg/gothrottle"
 )
 
 func main() {
